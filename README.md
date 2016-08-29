@@ -10,3 +10,6 @@ Ember-router-scroll allows your single-page app to behave like a multi-page webs
 ---
 
 This app was deployed to Github Pages using the [ember-cli-github-pages](https://github.com/poetic/ember-cli-github-pages) addon.
+```
+ember github-pages:commit --message "Commit message."
+```
